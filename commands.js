@@ -80,3 +80,10 @@ export const CHALLENGE_COMMAND = {
   ],
   type: 1,
 };
+
+// Simple stats command
+export const STATS_COMMAND = {
+  name: 'stats',
+  description: 'Check stats',
+  type: 1,
+};

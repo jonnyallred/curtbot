@@ -67,7 +67,7 @@ const RPSChoices = {
     wumpus: 'deletes assets for',
   },
   wumpus: {
-    description: 'the purple Discord fella',
+    description: 'the purple Discord feller',
     paper: 'draws picture on',
     rock: 'paints cute face on',
     scissors: 'admires own reflection in',

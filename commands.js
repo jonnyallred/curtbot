@@ -73,7 +73,7 @@ export const CHALLENGE_COMMAND = {
     {
       type: 3,
       name: 'object',
-      description: 'Pick your object',
+      description: 'Pick your object...wisely',
       required: true,
       choices: createCommandChoices(),
     },
